@@ -26,3 +26,8 @@ This is a repository of my personal website created on week one at Moringa Prep
 ## Support and contact details
 
 {If any issues, questions, ideas or concerns arise, I encourage you to contribute to my code for any feedback is welcome and will be attended to immediately.}
+
+### License
+
+Copyright (c) {2017} **{agathu87}**
+  
