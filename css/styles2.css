@@ -1,0 +1,36 @@
+header {
+  background-color: transparent;
+  height: 500px;
+  background-image: url(../img/background.jpg);
+  background-size: cover;
+}
+
+.awe {
+  text-align: center;
+  background-color: transparent;
+}
+
+#mainnav {
+  background-color: transparent;
+}
+
+.fixed-top {
+  position: fixed;
+}
+
+li {
+  line-height: 2;
+  color: white
+}
+
+img {
+  padding: 150px;
+  margin: 50px;
+  width: 150px;
+  height: 60px;
+}
+
+a {
+  color: white;
+  text-align: right;
+}
