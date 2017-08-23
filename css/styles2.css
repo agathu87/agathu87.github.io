@@ -1,6 +1,6 @@
 header {
   background-color: transparent;
-  height: 500px;
+  height: 350px;
   background-image: url(../img/background.jpg);
   background-size: cover;
 }
@@ -8,10 +8,14 @@ header {
 .awe {
   text-align: center;
   background-color: transparent;
+  color: #e6005c;
+  padding: 150px;
 }
 
 #mainnav {
   background-color: transparent;
+  color: skyblue;
+  font-size: 24;
 }
 
 .fixed-top {
@@ -20,7 +24,10 @@ header {
 
 li {
   line-height: 2;
-  color: white
+  color: #5900b3;
+  float: right;
+  text-align: right;
+  padding-right: 150px;
 }
 
 img {
@@ -31,6 +38,10 @@ img {
 }
 
 a {
-  color: white;
+  color: #5900b3;
   text-align: right;
+}
+
+h2 {
+  font-size: 50;
 }
